@@ -25,8 +25,8 @@ I like creating clean, useful, and scalable projects — from simple MVPs to pro
 
 <table>
   <tr>
-    <td width="18%" valign="top">
-      <img src="./assets/alexandria-preview.jpg" alt="Alexandria preview" width="140" />
+    <td width="160" valign="top">
+      <img src="./assets/alexandria-preview.jpg" alt="Alexandria preview" width="150" />
     </td>
     <td width="82%" valign="top">
       <strong>Alexandria</strong>
