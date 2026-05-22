@@ -34,8 +34,9 @@ I like creating clean, useful, and scalable projects — from simple MVPs to pro
       <sub>Backend-focused Django web application for clean architecture, database design, authentication, and production-ready development.</sub>
       <br />
       <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>Docker</code>
-      <br />
-      <a href="https://github.com/tim-alimov/alexandria">View source code →</a>
+      <br /><br />
+      <a href="https://github.com/tim-alimov/alexandria"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
+      <a href="https://alexandria.uz"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Live website" /></a>
       <br />
     </td>
   </tr>
@@ -52,4 +53,9 @@ Most projects include a `CHANGELOG.md` file for important updates, progress note
 ---
 ### Contact
 
-For collaboration or project discussions, reach me through the links on my GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/tim-alimov/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+  <a href="mailto:tim-alimov@proton.me"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
+  <a href="https://instagram.com/alimov.io"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
+  <a href="https://x.com/alimov_io"><img src="https://skillicons.dev/icons?i=twitter" alt="X" width="40" /></a>
+</p>
