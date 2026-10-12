@@ -1,9 +1,11 @@
 ## Timur Alimov
 
-Backend developer working with Python, Django, and FastAPI. I mostly build web APIs, data pipelines, and Telegram bots.
+Backend developer. I build web APIs, data pipelines, and Telegram bots
+with Python, Django, and FastAPI.
 
-Spoken languages: Russian, Uzbek, English.
+Most of my work is private: APIs and bots for small businesses
+and internal tools. A few side projects are pinned below.
 
+Russian · Uzbek · English
 
 [LinkedIn](https://www.linkedin.com/in/tim-alimov/) · [Email](mailto:tim-alimov@proton.me)
-
