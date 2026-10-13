@@ -1,8 +1,6 @@
 ## Timur Alimov
 
-```
-Backend Software Engineer
-```
+**`Backend Software Engineer`**
 
 I build web APIs, data pipelines, and Telegram bots
 with Python, Django, and FastAPI.
